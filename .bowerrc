@@ -1,0 +1,8 @@
+{
+"name": "SlidesJS3",
+"version": "3.0",
+"main": "source/jquery.slides.js",
+"dependencies": {
+    "jquery": "*"
+}
+}
